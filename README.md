@@ -18,7 +18,7 @@ I enjoy the practical side of data: making numbers accurate and traceable, desig
 - **Uber Trip Price Prediction (Microsoft Fabric)** — regression models (Linear Regression vs Random Forest) evaluated with RMSE.
 
 ### Tech
-`Power BI` · `Looker Studio` · `Python` · `SQL` · `Microsoft Fabric` · `scikit-learn` · `pandas` · `Excel / Power Query` ·
+`Power BI` · `Looker Studio` · `Python` · `SQL` · `Microsoft Fabric` · `scikit-learn` · `pandas` · `Excel / Power Query
 
 ### Let's connect
 - 🔗 LinkedIn: https://www.linkedin.com/in/mallika-samanu-00ba9817a
