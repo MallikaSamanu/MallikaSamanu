@@ -1,42 +1,27 @@
-# 👋 Hello, I'm Mallika!
+# Hi, I'm Mallika Samanu 👋
 
-## 🚀 Data Analyst transforming raw data into predictive insights
+**Data Analyst** | Turning messy data into clear, usable insights
 
-📍 **Auckland, New Zealand**
-📧 **Email:** [mallika.samanu@gmail.com](mallika.samanu@gmail.com)
-🔗 **LinkedIn:** [Mallika Samanu](www.linkedin.com/in/mallika-samanu-00ba9817a)
+I work across the full analytics workflow — cleaning and modelling data, building dashboards, and automating the repetitive steps in between. I started my career in embedded testing, which gave me a structured, detail-focused way of working, and I've since moved into data analytics through the Mission Ready programme.
 
----
+I enjoy the practical side of data: making numbers accurate and traceable, designing dashboards people actually use, and using AI (with human review) to speed up the slow parts without losing control of quality.
 
-### About Me 🌐
+### What I do
+- **Dashboards & reporting** — Power BI, Looker Studio
+- **Data cleaning & modelling** — Python, Excel Power Query, Google Sheets, SQL
+- **Machine learning** — regression, classification, and clustering with scikit-learn in Microsoft Fabric
+- **Automation** — Google Apps Script + AI (Gemini), with human-in-the-loop review
 
-Motivated Data Analyst candidate with a strong technical foundation built through hands-on, intensive training at Mission Ready. Confident and fully proficient in structured data handling, predictive modeling, and business intelligence. Passionate about translating complex datasets into actionable strategies and forward-looking forecasts.
+### Featured projects
+- **Buzzly Challenge Insights** — automated raw survey data and PDF reports into an interactive, reusable Looker Studio dashboard (AI-assisted cleaning with human review).
+- **Customer Churn Prediction (Microsoft Fabric)** — classification models (Logistic Regression vs tuned Random Forest) to flag at-risk customers.
+- **Uber Trip Price Prediction (Microsoft Fabric)** — regression models (Linear Regression vs Random Forest) evaluated with RMSE.
 
-### Professional Highlights 🌟
+### Tech
+`Power BI` · `Looker Studio` · `Python` · `SQL` · `Microsoft Fabric` · `scikit-learn` · `pandas` · `Excel / Power Query` ·
 
-- **Technical Focus:** SQL (Queries, Joins, Aggregations) | Advanced Excel (VLOOKUP, Pivot Tables)
-- **Cloud Infrastructure:** Microsoft Fabric (Synapse Python Notebooks) | Cloud-Based Workspaces
-- **Advanced Analytics:** Exploratory Data Analysis (EDA) | Python (Pandas, NumPy, Matplotlib)
-- **Machine Learning & Statistics:** Linear Regression | Random Forest | Time Series Forecasting
-- **Business Intelligence:** Microsoft Power BI | Interactive Dashboard Design | DAX | KPI Tracking
+### Let's connect
+- 🔗 LinkedIn: https://www.linkedin.com/in/mallika-samanu-00ba9817a
+- 💻 Portfolio: https://github.com/MallikaSamanu/data-analyst-portfolio
 
-### Experience Summary 🌟
-
-**Data Querying & Database Management (SQL & Excel)**
-- Wrote structured SQL queries utilizing joins, groupings, and aggregations to extract and analyse specific business data from relational databases.
-- Utilised Advanced Excel to clean, format, and organize raw datasets, using Pivot Tables and lookup functions to summarize key performance data.
-
-**Predictive Analytics & Forecasting (Fabric & Python)**
-- Utilised Microsoft Fabric notebooks to execute Python code for handling, cleaning, and preparing raw datasets.
-- Conducted extensive Exploratory Data Analysis (EDA) within the Fabric environment to identify hidden trends, anomalies, and data patterns.
-- Built and trained Machine Learning models (Linear Regression, Random Forest, and Time Series) directly in Fabric to predict future behaviour and forecast trends.
-- Connected the analysed data layers into Power BI to build interactive dashboards that visualize key business metrics clearly.
-
-### Education 🎓
-
-- **Hands-on Accelerator Programme**, Mission Ready
-- **Bachelor of Technology (Electronics and Communication Engineering)**, Jawaharlal Nehru Technological University, Anantapur, India
-
----
-
-
+I'm currently open to Data Analyst / BI Analyst opportunities.
