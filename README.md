@@ -21,7 +21,9 @@ I enjoy the practical side of data: making numbers accurate and traceable, desig
 `Power BI` · `Looker Studio` · `Python` · `SQL` · `Microsoft Fabric` · `scikit-learn` · `pandas` · `Excel / Power Query
 
 ### Let's connect
+
 - 🔗 LinkedIn: https://www.linkedin.com/in/mallika-samanu-00ba9817a
 - 💻 Portfolio: https://github.com/MallikaSamanu/data-analyst-portfolio
+- 🌐 Website: https://mallikasamanu.github.io
 
 I'm currently open to Data Analyst / BI Analyst opportunities.
