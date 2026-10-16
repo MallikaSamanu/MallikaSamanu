@@ -22,7 +22,7 @@ I enjoy the practical side of data: making numbers accurate and traceable, desig
 
 ### Let's connect
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/mallika-samanu-00ba9817a
+- 🔗 LinkedIn: https://www.linkedin.com/in/mallika-samanu-data-analyst/
 - 💻 Portfolio: https://github.com/MallikaSamanu/data-analyst-portfolio
 - 🌐 Website: https://mallikasamanu.github.io
 
